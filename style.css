@@ -1,0 +1,17 @@
+table, th, td { 
+    border: 1px solid black;
+}
+
+.headingtext {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.subheading {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.paratext {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.5em;
+}
